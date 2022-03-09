@@ -1,0 +1,41 @@
+{
+  "account":
+  [
+    {
+      "username":"Uncle Sam",
+      "birthday":"2022-03-09 12:16:40.616738",
+      "sex":"Male",
+      "unit":"Imperial",
+    },
+    {
+      "username":"Super Woman",
+      "birthday":"2022-03-09 12:16:40.616738",
+      "sex":"Female",
+      "unit":"Metric
+    }
+  ],
+  "measurement":
+  [
+    {
+      "id": "some id",
+      "acc_id": "some id",
+      "name": "body_weight",
+      "value": 70,
+      "dtm": "2022-03-09 12:16:40.616738"
+    },
+    {
+      "id": "some id",
+      "acc_id": "some id",
+      "name": "body_fat_percentage",
+      "value": 10,
+      "dtm": "2022-03-09 12:16:40.616738"
+    },
+    {
+      "id": "some id",
+      "acc_id": "some id",
+      "name": "body_height",
+      "value": 190,
+      "dtm": "2022-03-09 12:16:40.616738"
+    }
+  ]
+}
