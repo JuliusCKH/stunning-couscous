@@ -5,8 +5,8 @@
       "birthday":"2022-03-09 12:16:40.616738",
       "sex":"Male",
       "unit":"Imperial",
-      "body_weight":70,
-      "body_fat_percentage":10,
-      "body_height":190
+      "body_weight":"70",
+      "body_fat_percentage":"10",
+      "body_height":"190"
     }
 }
